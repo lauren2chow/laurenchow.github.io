@@ -1,2 +1,1 @@
-My old computer science website.
-[My personal website](https://lauren2chow.github.io/)
+My old computer science [website](https://lauren2chow.github.io/)
